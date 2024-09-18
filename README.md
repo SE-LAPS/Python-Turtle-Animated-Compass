@@ -2,7 +2,9 @@
 
 Welcome to the **Animated Compass** project! This project demonstrates how to use **Python's Turtle Graphics** library to create a visually appealing and fully animated compass, complete with directional labels and a rotating needle. It’s a fun and educational project for beginners and experienced developers alike!
 
-<img src="https://www.nio.lk/wp-content/uploads/revslider/cercle.png" alt="Compass GIF" width="300" height="300">
+<div align="center">
+    <img src="https://www.nio.lk/wp-content/uploads/revslider/cercle.png" alt="Compass GIF" width="300" height="300">
+</div>
 
 ---
 
@@ -35,7 +37,7 @@ The following files are included in this repository:
 
 1️⃣ Clone the repository to your local machine:
 ```bash
-    git clone https://github.com/your-username/animated-compass-turtle.git
+    git clone https://github.com/SE-LAPS/Python-Turtle-Animated-Compass-.git
 ```
 
 2️⃣ Navigate to the project directory:
@@ -106,6 +108,15 @@ def create_needle(t):
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🤝 Connect with Me
-🟧FaceBook: https://www.facebook.com/CodeShowLapZ?mibextid=ZbWKwL
-🟨LinkedIn: https://www.linkedin.com/in/lahiru-senavirathna-39b11a215/
-🟦YouTube Channel: https://www.youtube.com/@CodeShowLapZ
+
+<a href="https://www.facebook.com/CodeShowLapZ?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/FaceBook-%23E4405F.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://www.linkedin.com/in/lahiru-senavirathna-39b11a215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.youtube.com/@CodeShowLapZ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
