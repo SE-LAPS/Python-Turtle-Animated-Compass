@@ -45,16 +45,16 @@ The following files are included in this repository:
 cd animated-compass-turtle
 ```
 
-3️⃣Install Python (if you don't have it installed): Download Python
+3️⃣ Install Python (if you don't have it installed): Download Python
 
-4️⃣Run the Python file:
+4️⃣ Run the Python file:
 ```bash
 python compass.py
 ```
 
 ## ✨ Code Overview
 
-1️⃣Setting Up the Screen
+1️⃣ Setting Up the Screen
 This part of the code creates the canvas for the compass animation. It sets up the screen size and background color.
 ```bash
 def setup_screen():
@@ -64,7 +64,7 @@ def setup_screen():
     screen.title("Enhanced Animated Compass")
     return screen
 ```
-2️⃣Drawing the Compass
+2️⃣ Drawing the Compass
 The create_compass() function draws the outer and inner circles of the compass, as well as the labels for the four main directions (N, E, S, W) and the intermediate directions (NE, SE, SW, NW).
 ```bash
 def create_compass(t):
@@ -78,7 +78,7 @@ def create_compass(t):
     ...
 ```
 
-3️⃣Creating the Needle
+3️⃣ Creating the Needle
 This part of the code creates and animates the needle of the compass to rotate smoothly in a loop.
 ```bash
 def create_needle(t):
@@ -93,21 +93,23 @@ def create_needle(t):
 
 ## 🧠 How It Works
 
-1️⃣Turtle graphics is used to draw the compass and animate the needle.
-2️⃣The circle() method is used to draw the outer and inner circles.
-3️⃣The needle is drawn using a turtle shape and is rotated using the setheading() method.
-4️⃣Smooth animations are achieved using Python’s time.sleep() function.
+1️⃣ Turtle graphics is used to draw the compass and animate the needle.
+2️⃣ The circle() method is used to draw the outer and inner circles.
+3️⃣ The needle is drawn using a turtle shape and is rotated using the setheading() method.
+4️⃣ Smooth animations are achieved using Python’s time.sleep() function.
 
 ## 🛠️ Requirements
 
-1️⃣Python 3.x 🐍
-2️⃣Turtle (no need to install separately, it’s built into Python)
-3️⃣Basic knowledge of Python 🧠
+1️⃣ Python 3.x 🐍
+2️⃣ Turtle (no need to install separately, it’s built into Python)
+3️⃣ Basic knowledge of Python 🧠
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🤝 Connect with Me
+
+<div align="center">
 
 <a href="https://www.facebook.com/CodeShowLapZ?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/FaceBook-%23E4405F.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -120,3 +122,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 <a href="https://www.youtube.com/@CodeShowLapZ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </a>
+
+</div>
