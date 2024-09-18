@@ -2,7 +2,7 @@
 
 Welcome to the **Animated Compass** project! This project demonstrates how to use **Python's Turtle Graphics** library to create a visually appealing and fully animated compass, complete with directional labels and a rotating needle. It’s a fun and educational project for beginners and experienced developers alike!
 
-![Compass GIF](https://www.nio.lk/wp-content/uploads/revslider/cercle.png)
+<img src="https://www.nio.lk/wp-content/uploads/revslider/cercle.png" alt="Compass GIF" width="300" height="300">
 
 ---
 
@@ -106,6 +106,6 @@ def create_needle(t):
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🤝 Connect with Me
-🟧FaceBook: Your GitHub Profile
-🟨LinkedIn: Your LinkedIn Profile
-🟦YouTube Channel: Subscribe here!
+🟧FaceBook: https://www.facebook.com/CodeShowLapZ?mibextid=ZbWKwL
+🟨LinkedIn: https://www.linkedin.com/in/lahiru-senavirathna-39b11a215/
+🟦YouTube Channel: https://www.youtube.com/@CodeShowLapZ
