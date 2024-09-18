@@ -93,15 +93,15 @@ def create_needle(t):
 
 ## 🧠 How It Works
 
-1️⃣ Turtle graphics is used to draw the compass and animate the needle.
-2️⃣ The circle() method is used to draw the outer and inner circles.
-3️⃣ The needle is drawn using a turtle shape and is rotated using the setheading() method.
+1️⃣ Turtle graphics is used to draw the compass and animate the needle.<br>
+2️⃣ The circle() method is used to draw the outer and inner circles.<br>
+3️⃣ The needle is drawn using a turtle shape and is rotated using the setheading() method.<br>
 4️⃣ Smooth animations are achieved using Python’s time.sleep() function.
 
 ## 🛠️ Requirements
 
-1️⃣ Python 3.x 🐍
-2️⃣ Turtle (no need to install separately, it’s built into Python)
+1️⃣ Python 3.x 🐍<br>
+2️⃣ Turtle (no need to install separately, it’s built into Python)<br>
 3️⃣ Basic knowledge of Python 🧠
 
 ## 📝 License
